@@ -3,7 +3,7 @@ import time
 import datetime
 import http.client
 
-conn = http.client.HTTPConnection("45.84.188.101")
+conn = http.client.HTTPConnection("142.251.141.46") #nslookuup goog.com ip addr
 message = '''
 *******************************************************************************************
 ___________              .__        __   
